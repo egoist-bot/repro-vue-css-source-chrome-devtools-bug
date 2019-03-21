@@ -38,6 +38,12 @@ export default {
 }
 </script>
 
+<style>
+h3 {
+  font-size: 4rem;
+}
+</style>
+
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
 h3 {
